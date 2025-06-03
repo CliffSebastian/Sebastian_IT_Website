@@ -3,7 +3,7 @@
     {
       "name": "email",
       "icon": "fab fa-envelope",
-      "link": "cliff@sebastian.it.com"
+      "link": "<a href='mailto:cliff@sebastian.it.com?subject=IT%20Support%20Ticket&body=Hello%20Cliff%2C%0A%0AName%3A%20%0AEmail%2FPhone%3A%20%0A%0ADescription%20of%20Issue%3A%20'>Request IT Support</a>"
     },
     {
       "name": "github",
