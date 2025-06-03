@@ -1,6 +1,6 @@
 ---
 title: "Home"
-meta_title: ""
+meta_title: "Home"
 description: "this is meta description"
 ---
 
