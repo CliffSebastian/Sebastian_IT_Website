@@ -2,7 +2,7 @@
   "main": [
     {
       "name": "email",
-      "icon": "fab fa-email",
+      "icon": "fab fa-envelope",
       "link": "cliff@sebastian.it.com"
     },
     {
