@@ -6,4 +6,24 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Are you looking for trustworthy IT services tailored to your needs? At Sebastian IT Support, we provide interprise grade IT support for your specific needs. We offer personalized support for individuals and small businesses. Our services include:
+
+Home Services:
+Network setup
+Smart home device configuration
+General home computing assistance
+
+Business Services:
+Building local backup servers
+System administration
+Ongoing IT support and maintenance
+
+We come directly to your location, offering convenient and professional assistance to keep your technology running smoothly. Whether you need help setting up your home network or managing your business’s IT infrastructure, we've got you covered.
+
+Having problems with technology? We have the solution.
+
+Contact Us Today!
+
+Email: Cliff@sebastian.it.com
+
+or use the sites contact page.
